@@ -66,3 +66,11 @@ I'm <strong>Sarthak Sachan</strong>, a passionate and results-driven Machine Lea
 </div>
 
 ###
+
+<h3 align="left">🔥 My Stats :</h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sarthak-404&theme=dark"/>
+</div>
+
+###
